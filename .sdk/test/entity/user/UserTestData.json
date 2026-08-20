@@ -1,0 +1,45 @@
+{
+  "existing": {
+    "user": {
+      "USER00": {
+        "created_at": "s3c",
+        "emails": [],
+        "name": {},
+        "status": "s3f",
+        "trusted_metadata": {},
+        "user_id": "USER01",
+        "id": "USER00"
+      },
+      "USER01": {
+        "created_at": "s78",
+        "emails": [],
+        "name": {},
+        "status": "s7b",
+        "trusted_metadata": {},
+        "user_id": "USER01",
+        "id": "USER01"
+      },
+      "USER02": {
+        "created_at": "sb4",
+        "emails": [],
+        "name": {},
+        "status": "sb7",
+        "trusted_metadata": {},
+        "user_id": "USER01",
+        "id": "USER02"
+      }
+    }
+  },
+  "new": {
+    "user": {
+      "user_ref01": {
+        "created_at": "sf0",
+        "emails": [],
+        "name": {},
+        "status": "sf3",
+        "trusted_metadata": {},
+        "user_id": "USER01"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+# API Information
+
+
+main: {
+  kit: {
+    info: {
+      description: "Create, read, update, and delete Stytch users."
+      security: {
+        in: "header"
+        name: "Authorization"
+        prefix: "Basic"
+        scheme: "basicAuth"
+        type: "http"
+      }
+      servers: [
+        {
+          url: "https://test.stytch.com/v1"
+        }
+      ]
+      summary: "Create, read, update, and delete Stytch users."
+      title: "Stytch Users API"
+      version: "1.0.0"
+      website: "https://test.stytch.com"
+    }
+  }
+}
+
